@@ -6,7 +6,7 @@
 </a>
 
 ##
-- learning: Python, JavaScript
+- learning: JavaScript, NODE.js & Python
 - Interests: Software Engineering, Programming Logic, Cryptography
 
 ##
